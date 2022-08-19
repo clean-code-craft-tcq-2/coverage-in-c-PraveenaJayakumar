@@ -1,4 +1,3 @@
-
 #pragma once
 
 #define COOLING_TYPES 3
